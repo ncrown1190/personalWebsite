@@ -158,13 +158,15 @@ input {
   padding: 15px;
   box-sizing: border-box;
   border: 1px solid hsl(246, 25%, 77%);
+  border-radius: 5px;
 }
 textarea {
-  width: 37%;
+  width: 38%;
   margin: 10px;
   padding: 15px;
   box-sizing: border-box;
   border: 1px solid hsl(246, 25%, 77%);
+  border-radius: 5px;
 }
 .submit {
   width: 100%;
